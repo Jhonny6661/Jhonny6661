@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jhonny6661
+- 👀 I’m interested in  Java, Python entre outros
+- 🌱 I’m currently learning  Web Back-End
